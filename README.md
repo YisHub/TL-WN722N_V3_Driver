@@ -20,7 +20,7 @@ Para instalar el controlador del adaptador WiFi, siga los siguientes pasos:
 3. Ejecute el siguiente comando para ejecutar el script de instalación:
 
 ```bash
-sudo ./install.sh
+sudo ./TL-WN722N_V3_Driver.sh
 ```
 
 4. Siga las instrucciones que aparecerán en la pantalla.
